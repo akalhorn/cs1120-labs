@@ -1,0 +1,5 @@
+Grocery  fruits  vegetables  cakes
+Hardware  hammers  wrenches
+Electronics  phones  computers
+Clothing  shoes  coats  hats  gloves
+Art  paintings

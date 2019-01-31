@@ -1,0 +1,17 @@
+16
+a cow
+a dog
+a cat
+a mouse
+a duck
+a pig
+a donkey
+a pony
+a sheep
+an owl
+a hen
+a bee
+a lion
+a crow
+a parrot
+a turkey
